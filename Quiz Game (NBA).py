@@ -1,10 +1,6 @@
 #Introduction
 
-print("Welcome to the NBA quiz!",
-      "This is a quiz about your knowledge of the NBA,",
-      "both current NBA and all-time.",
-      "When answering each question, please just type A, B, C, or D.",
-      "Enjoy!")
+print("Welcome to the NBA quiz!")
 
 # Begin with questions
 
@@ -73,9 +69,6 @@ for i in range(total_questions):
         score += 1
     else:
         print("Incorrect!")
-    # Print the correct answer if the user's answer is incorrect
-    print("Correct answer: " + answers[i])
-
 
 # Calculate the percentage score
 percentage = (score / total_questions) * 100
