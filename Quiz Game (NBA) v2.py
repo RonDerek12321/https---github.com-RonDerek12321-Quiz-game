@@ -35,7 +35,7 @@ options = ("A. Kareem Abdul-Jabbar, B. Michael Jordan, C. LeBron James, D. Dillo
            "A. Boston Celtics, B. Milwaukee Bucks, C. Golden State Warriors, D. Denver Nuggets",
            "A. The King, B. The Greek Freek, C. The Beard, D. The Greek Freak",
            "A. Wilt Chamberlain, B. Ben Simmons, C. Michael Jordan, D. Kobe Bryant",
-           "A. Zion WIlliamson, B. Kyrie Irving, C. Nikola Jokic, D. Spencer Dinwiddie",
+           "A. Zion Williamson, B. Kyrie Irving, C. Nikola Jokic, D. Spencer Dinwiddie",
            "A. 4, B. 3, C. 2, D. 5",
            "A. 3, B. 2, C. 5, D. 1",
            "A. Washington Wizards, B. Cleveland Cavaliers, C. Chicago Bulls, D. New York Knicks",
